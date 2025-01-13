@@ -2,6 +2,8 @@
 
 ![Neurona Artificial](neurona.jpg)
 
+https://neurona-artificial-2.streamlit.app
+
 Aplicación web interactiva desarrollada con Streamlit que simula el funcionamiento de una neurona artificial con características personalizables.
 
 ## ✨ Características
